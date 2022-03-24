@@ -108,7 +108,7 @@ table {
       width: auto;
   }
 
-  .images {
+.images {
       border-style: double;
       border-width: 10px;
       margin-left: 400px;
@@ -117,7 +117,7 @@ table {
       background-color: whitesmoke;
   }
 
-  .footer {
+.footer {
       position: fixed;
       left: 0;
       bottom: 0;
@@ -128,7 +128,7 @@ table {
       text-transform: capitalize;
   }
 
-  .homebasetext p{
+.homebasetext p{
       padding-left: 500px;
       padding-right: 500px;
       padding-top: 100px;
@@ -136,3 +136,10 @@ table {
       margin-bottom: 50px;
   }
 
+#coopevent1 {
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 60px;
+  }
