@@ -126,6 +126,8 @@ table {
       color: #807c8a;
       text-align: center;
       text-transform: capitalize;
+      padding-bottom: 10px;
+      font-size: 15px;
   }
 
 .homebasetext p{
