@@ -7,28 +7,28 @@ document.querySelector("body").appendChild(h2);
 const coopevent1 = document.querySelector(".coopevent1")
 
 coopevent1.addEventListener('click', function(){
-    alert('Cooper\'s birthday is April 1st!');
+    alert('Cooper\'s birthday is April 1st! She\'s an April Fools pup!');
 })
 
 
 const coopevent2 = document.querySelector(".coopevent2")
 
 coopevent2.addEventListener('click', function(){
-    alert('Cooper is an Ewok');
+    alert('Cooper is a Brussels Griffon mutt. Fun fact - George Lucas based the Ewoks in Star Wars off the Brussel Griffon breed!');
 })
 
 
 const coopevent3 = document.querySelector(".coopevent3")
 
 coopevent3.addEventListener('click', function(){
-    alert('Cooper has many allergies, and is coincidentally gluten free, soy free, and grain free!');
+    alert('Cooper has many allergies, and is coincidentally gluten free, soy free, and grain free. It\'s a pain for me, but she gets 100% chicken treats so does not matter to her!');
 })
 
 
 const coopevent4 = document.querySelector(".coopevent4")
 
 coopevent4.addEventListener('click', function(){
-    alert('Cooper is going to be seven years old this year...');
+    alert('Cooper is going to be seven years old this year, and I wish time would stop!');
 })
 
 
@@ -42,5 +42,5 @@ coopevent5.addEventListener('click', function(){
 const coopevent6 = document.querySelector(".coopevent6")
 
 coopevent6.addEventListener('click', function(){
-    alert('Cooper is the best');
+    alert('Cooper\'s name comes partly from the game Sly Cooper, and partly from the movie Interstellar.');
 })
