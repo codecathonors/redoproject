@@ -111,6 +111,10 @@ table {
   .images {
       border-style: double;
       border-width: 10px;
+      margin-left: 400px;
+      margin-right: 400px;
+      margin-bottom: 60px;
+      background-color: whitesmoke;
   }
 
   .footer {
@@ -128,4 +132,7 @@ table {
       padding-left: 500px;
       padding-right: 500px;
       padding-top: 100px;
+      text-align: left;
+      margin-bottom: 50px;
   }
+
