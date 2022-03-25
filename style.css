@@ -145,3 +145,13 @@ table {
     margin-right: 100px;
     margin-bottom: 60px;
   }
+
+.starwars {
+    background-color: blue;
+    font-style: oblique;
+    padding: 50px;
+    margin-left: 420px;
+    margin-right: 420px;
+    font-size: 22px;
+    color: #dddddd;
+}
