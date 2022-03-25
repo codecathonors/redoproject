@@ -44,3 +44,18 @@ const coopevent6 = document.querySelector(".coopevent6")
 coopevent6.addEventListener('click', function(){
     alert('Cooper\'s name comes partly from the game Sly Cooper, and partly from the movie Interstellar.');
 })
+
+
+const dtwenty = document.querySelector("dtwenty")
+
+dtwenty.addEventListener('click', function(){
+    alert('your mom!');
+})
+
+
+
+ //   let random = Math.floor(Math.random() * 10) + 1;
+   // console.log(random); 
+   // alert(random);
+
+

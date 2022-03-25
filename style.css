@@ -157,3 +157,9 @@ table {
     color: #dddddd;
     font-weight: 700px;
 }
+
+#selector {
+    width:30%;
+    height:30%;
+}
+
