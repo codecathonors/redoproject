@@ -46,11 +46,11 @@ coopevent6.addEventListener('click', function(){
 })
 
 
-const dtwenty = document.querySelector("dtwenty")
+//const dtwenty = document.querySelector("dtwenty")
 
-dtwenty.addEventListener('click', function(){
-    alert('your mom!');
-})
+//dtwenty.addEventListener('click', function(){
+  //  alert('your mom!');
+//})
 
 
 

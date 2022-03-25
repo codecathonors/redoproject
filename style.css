@@ -1,17 +1,16 @@
 body {
-    background-color: #89B886;
+    background-color: #AAd2ba;
     text-align: center;
     font-family: monospace;
     margin: 0;
 }
-/*need to push down top margin*/
 
 h1 {
-    color: #475e45;
+    color: #6b8f71;
 }
 
 h2 {
-    color:#475e45;
+    color:#6b8f71;
 }
 
 .container {
@@ -21,7 +20,7 @@ h2 {
 }
 
 header {
-    background-color: #f7cdde;
+    background-color: #d9fff5;
     padding: .5em;
     font-size: 15px;
 }
@@ -123,8 +122,8 @@ table {
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: pink;
-      color: #807c8a;
+      background-color: #d9fff5;
+      color: #1d1e18;
       text-align: center;
       text-transform: capitalize;
       padding-bottom: 10px;
@@ -148,13 +147,15 @@ table {
   }
 
 .starwars {
-    background-color:#475e45;
+    background-color:#b9f5d8;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: oblique;
+    letter-spacing: 2px;
     padding: 50px;
     margin-left: 420px;
     margin-right: 420px;
     font-size: 22px;
-    color: #dddddd;
+    color: #1d1e18;
     font-weight: 700px;
 }
 
